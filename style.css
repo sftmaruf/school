@@ -1,0 +1,82 @@
+body{
+    font-family: Poppins;
+}
+.header-container{
+    background-color: #F0FFF0;
+    height: 500px;
+    margin-bottom: 20px;
+}
+.logo-resize{
+    width: 130px;
+}
+.btn-design{
+    background-color: #21b573;
+    color: white;
+    padding: 12px 28px;
+    border-radius: 33px;
+}
+#banner{
+    width: 400px;
+}
+.header-element{
+    margin-top: 80px;
+    padding: 20px 20px;
+}
+.image-resize{
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.details{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.details h3{
+    font-size: 20px;
+}
+.details p{
+    margin-left: 20px;
+    font-size: 10px;
+}
+.special-card{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.special-card h3{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.special-card p{
+    font-size: 10px;
+    margin-left: 55px;
+}
+.card-courses{
+    padding: 10px 10px;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.man-photo{
+    width: 100px;
+}
+.footer{
+    background-color: #282531;
+    color: white;
+    font-size: 12px;
+    padding-top: 40px;
+    padding-left: 50px;
+    height: 250px;
+}
+.last-columns{
+    padding-left: 50px;
+}
+h5{
+    color: #FD511A;
+}
+.green-color{
+    color:#21B573;
+}
